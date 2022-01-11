@@ -1,8 +1,8 @@
 ## 👋 Olá, eu sou Mateus Schuch da Silva! 😄
 
-- 💼 Sou Analista de Sistemas há mais de 10 anos e atualmente trabalho no gerenciamento de features e atendimento de clientes + desenvolvimento full stack!
+- 💼 Sou Analista de Sistemas há mais de 10 anos. Trabalho no gerenciamento de features e atendimento de clientes + desenvolvimento full stack!
 - 👀 Curto uma inovação, que cause a disrupção do ambiente! 
-- 🌱 Atualmente aprimorando conhecimento em Git, Angular e APIs.
+- 🌱 Atualmente aprimorando o conhecimento em Git, Angular e APIs.
 - 😀 Pronouns: ele/dele.
 
 <div align="center">
